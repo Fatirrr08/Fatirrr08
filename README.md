@@ -74,26 +74,28 @@ Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, c
 
 ---
 
-### 🗃️ Complete Project Catalog
+### 🚀 Featured & Personal Projects (Proyek Unggulan)
 
-Berikut adalah direktori lengkap proyek dan repositori yang telah saya kembangkan, dikelompokkan berdasarkan kategori teknologi:
+Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah nyata dan berfokus pada kecanggihan AI serta interface:
 
-#### 🤖 Artificial Intelligence & Computer Vision
-*   **[el_gestur_v2](https://github.com/aariffaqiih/el_gestur_v2)** — Sistem pengontrol presentasi (PowerPoint, Canva, Figma) secara *hands-free* memanfaatkan AI pendeteksi gerakan tangan dan suara. *(Python, YOLOv8, MediaPipe, Speech Recognition)*
+*   **[el_gestur_v2](https://github.com/aariffaqiih/el_gestur_v2)** — Sistem pengontrol presentasi (PowerPoint, Canva, Figma) secara *hands-free* menggunakan deteksi gerakan tangan waktu nyata dan pengenalan suara. *(Python, YOLOv8, MediaPipe, Speech Recognition)*
+*   **[salin-gaya-web](https://github.com/Fatirrr08/salin-gaya-web)** — Platform e-commerce thrifting premium yang responsif dengan sistem rekomendasi pakaian bertenaga AI Gemini. *(React, TypeScript, Vite, Firebase, Gemini AI API)*
 *   **[Perintis](https://github.com/marzhendo/Perintis)** — Platform validasi kelayakan ide bisnis kualitatif UMKM berbasis AI terintegrasi simulasi finansial. *(Python, HTML, CSS, JavaScript)*
-*   **[salin-gaya-web](https://github.com/Fatirrr08/salin-gaya-web)** — Platform e-commerce thrifting premium dengan sistem rekomendasi pakaian bertenaga AI. *(React, TypeScript, Vite, Firebase, Gemini AI API)*
+*   **[Web_HMIF](https://github.com/Fatirrr08/Web_HMIF)** & **[HMIF](https://github.com/Fatirrr08/HMIF)** — Pengembangan website profil resmi dan sistem informasi internal Himpunan Mahasiswa Informatika. *(HTML, CSS, JavaScript)*
+*   **[Portofolio](https://github.com/Fatirrr08/Portofolio)** — Website portofolio pribadi responsif untuk menampilkan profil, keahlian, dan riwayat proyek. *(HTML, CSS, JavaScript)*
 
-#### 🏫 Academic & Information Systems
-*   **[Library-Pro](https://github.com/Fatirrr08/Library-Pro)** — Sistem Informasi Manajemen Perpustakaan lengkap dengan dashboard analitik dan upload data buku. *(Java Web, JSP & Servlets, MVC, MySQL)*
-*   **[smart-student-finance](https://github.com/Fatirrr08/smart-student-finance)** — Aplikasi pencatatan dan pelaporan pemasukan serta pengeluaran bulanan mahasiswa. *(Java Web, JSP, Servlets, HTML, CSS, JS)*
-*   **[Perpus](https://github.com/Fatirrr08/Perpus)** — Aplikasi desktop manajemen sirkulasi perpustakaan berbasis OOP. *(Java, Swing, JDBC MySQL)*
-*   **[Web_HMIF](https://github.com/Fatirrr08/Web_HMIF)** & **[HMIF](https://github.com/Fatirrr08/HMIF)** — Repositori pengembangan website profil dan sistem informasi internal Himpunan Mahasiswa Informatika. *(HTML, CSS, JavaScript)*
+---
 
-#### 📐 Coursework & Basic Infrastructures
-*   **[JARKOM-TUBES](https://github.com/Fatirrr08/JARKOM-TUBES)** — Repositori tugas besar praktikum Jaringan Komputer, berisi implementasi protokol dan konfigurasi jaringan. *(Python, Networking)*
-*   **[AKA](https://github.com/Fatirrr08/AKA)** — Implementasi algoritma pemrograman terstruktur untuk mata kuliah Analisis Kekuatan Algoritma. *(Python, Algorithms)*
-*   **[103112430153_Fatir-Gibran](https://github.com/Fatirrr08/103112430153_Fatir-Gibran)** — Kumpulan tugas terstruktur praktikum perkuliahan semester berjalan. *(Academic Assignments)*
-*   **[Portofolio](https://github.com/Fatirrr08/Portofolio)** — Halaman website portofolio pribadi statis untuk perkenalan diri dan skill. *(HTML, CSS, JavaScript)*
+### 🎓 Academic Assignments & Coursework (Tugas Kuliah)
+
+Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup implementasi kurikulum akademik IT:
+
+*   **[Library-Pro](https://github.com/Fatirrr08/Library-Pro)** — Tugas web aplikasi Sistem Informasi Manajemen Perpustakaan berbasis arsitektur MVC. *(Java Web, JSP & Servlets, MySQL)*
+*   **[smart-student-finance](https://github.com/Fatirrr08/smart-student-finance)** — Tugas aplikasi web pencatatan dan pelaporan manajemen keuangan mandiri mahasiswa. *(Java Web, JSP, Servlets, HTML, CSS, JS)*
+*   **[Perpus](https://github.com/Fatirrr08/Perpus)** — Tugas praktikum desktop Pemrograman Berorientasi Objek (PBO) sistem sirkulasi perpustakaan. *(Java, Swing, JDBC MySQL)*
+*   **[JARKOM-TUBES](https://github.com/Fatirrr08/JARKOM-TUBES)** — Tugas besar Jaringan Komputer, berisi implementasi protokol dan soket jaringan. *(Python, Socket Programming)*
+*   **[AKA](https://github.com/Fatirrr08/AKA)** — Implementasi analisis algoritma pemrograman untuk mata kuliah Analisis Kekuatan Algoritma. *(Python, Algorithms)*
+*   **[103112430153_Fatir-Gibran](https://github.com/Fatirrr08/103112430153_Fatir-Gibran)** — Direktori tugas-tugas perkuliahan harian dan praktikum semester berjalan. *(Academic Assignments)*
 
 ---
 
@@ -118,7 +120,7 @@ Berikut adalah direktori lengkap proyek dan repositori yang telah saya kembangka
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.vercel.app/?user=Fatirrr08&theme=nord&hide_border=true&v=2" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatirrr08&theme=nord&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
 
 ---
