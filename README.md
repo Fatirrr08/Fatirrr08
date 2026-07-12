@@ -196,7 +196,7 @@ Kartu interaktif di bawah ini otomatis menampilkan statistik bahasa pemrograman 
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Fatirrr08&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=Fatirrr08&theme=nord&hide_border=true&v=2" alt="GitHub Streak" />
 </p>
 
 ---
