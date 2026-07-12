@@ -117,7 +117,7 @@ Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
         <li>Rekomendasi thrift cerdas menggunakan Gemini AI API.</li>
         <li>UI premium dengan Tailwind CSS, Framer Motion, dan Radix UI.</li>
       </ul>
-      <a href="https://github.com/Fatirrr08/salin-gaya-e-commerce"><b>View Repository ↗</b></a>
+      <a href="https://github.com/Fatirrr08/salin-gaya-web"><b>View Repository ↗</b></a>
     </td>
     <!-- Project 2 -->
     <td width="50%" valign="top">
@@ -133,7 +133,7 @@ Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
         <li>Mengontrol PowerPoint, Canva, & Figma via gestur tangan waktu nyata.</li>
         <li>Kombinasi AI Computer Vision dan deteksi suara.</li>
       </ul>
-      <a href="https://github.com/Fatirrr08/el_gestur_v2"><b>View Repository ↗</b></a>
+      <a href="https://github.com/aariffaqiih/el_gestur_v2"><b>View Repository ↗</b></a>
     </td>
   </tr>
   
@@ -152,7 +152,7 @@ Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
         <li>Validasi ide bisnis UMKM dengan analisis AI kualitatif.</li>
         <li>Simulasi finansial interaktif kalkulasi instan.</li>
       </ul>
-      <a href="https://github.com/Fatirrr08/Perintis"><b>View Repository ↗</b></a>
+      <a href="https://github.com/marzhendo/Perintis"><b>View Repository ↗</b></a>
     </td>
     <!-- Project 4 -->
     <td width="50%" valign="top">
@@ -178,11 +178,11 @@ Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
 Kartu interaktif di bawah ini otomatis menampilkan statistik bahasa pemrograman dan bintang pada repositori kamu secara realtime:
 
 <p align="center">
-  <a href="https://github.com/Fatirrr08/salin-gaya-e-commerce">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatirrr08&repo=salin-gaya-e-commerce&theme=nord&hide_border=true" alt="Salin Gaya E-Commerce Card" />
+  <a href="https://github.com/Fatirrr08/salin-gaya-web">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=Fatirrr08&repo=salin-gaya-web&theme=nord&hide_border=true" alt="Salin Gaya Web Card" />
   </a>
-  <a href="https://github.com/Fatirrr08/el_gestur_v2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatirrr08&repo=el_gestur_v2&theme=nord&hide_border=true" alt="El Gestur v2 Card" />
+  <a href="https://github.com/aariffaqiih/el_gestur_v2">
+    <img src="https://github-stats-extended.vercel.app/api/pin?username=aariffaqiih&repo=el_gestur_v2&theme=nord&hide_border=true" alt="El Gestur v2 Card" />
   </a>
 </p>
 
@@ -191,12 +191,12 @@ Kartu interaktif di bawah ini otomatis menampilkan statistik bahasa pemrograman 
 ### 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatirrr08&show_icons=true&theme=nord&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatirrr08&layout=compact&theme=nord&hide=html,css&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Fatirrr08&show_icons=true&theme=nord&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Fatirrr08&layout=compact&theme=nord&hide=html,css&hide_border=true" height="160" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fatirrr08&theme=nord&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Fatirrr08&theme=nord&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
