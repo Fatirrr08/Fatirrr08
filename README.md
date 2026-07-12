@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=gradient&customColorList=23,2,10&height=220&section=header&text=Fatir%20Gibran&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,100:bd93f9&height=220&section=header&text=Fatir%20Gibran&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
