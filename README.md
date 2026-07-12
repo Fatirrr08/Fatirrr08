@@ -78,11 +78,87 @@ Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, c
 
 Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah nyata dan berfokus pada kecanggihan AI serta interface:
 
-*   **[el_gestur_v2](https://github.com/aariffaqiih/el_gestur_v2)** — Sistem pengontrol presentasi (PowerPoint, Canva, Figma) secara *hands-free* menggunakan deteksi gerakan tangan waktu nyata dan pengenalan suara. *(Python, YOLOv8, MediaPipe, Speech Recognition)*
-*   **[salin-gaya-web](https://github.com/Fatirrr08/salin-gaya-web)** — Platform e-commerce thrifting premium yang responsif dengan sistem rekomendasi pakaian bertenaga AI Gemini. *(React, TypeScript, Vite, Firebase, Gemini AI API)*
-*   **[Perintis](https://github.com/marzhendo/Perintis)** — Platform validasi kelayakan ide bisnis kualitatif UMKM berbasis AI terintegrasi simulasi finansial. *(Python, HTML, CSS, JavaScript)*
-*   **[Web_HMIF](https://github.com/Fatirrr08/Web_HMIF)** & **[HMIF](https://github.com/Fatirrr08/HMIF)** — Pengembangan website profil resmi dan sistem informasi internal Himpunan Mahasiswa Informatika. *(HTML, CSS, JavaScript)*
-*   **[Portofolio](https://github.com/Fatirrr08/Portofolio)** — Website portofolio pribadi responsif untuk menampilkan profil, keahlian, dan riwayat proyek. *(HTML, CSS, JavaScript)*
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">📁 Project Name</th>
+      <th width="45%">📝 Description</th>
+      <th width="25%">🛠️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>👁️ el_gestur_v2</b><br>
+        <a href="https://github.com/aariffaqiih/el_gestur_v2"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Sistem kontrol presentasi (Canva, PowerPoint, Figma) secara <i>hands-free</i> berbasis Computer Vision & Voice Recognition.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
+        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛍️ salin-gaya-web</b><br>
+        <a href="https://github.com/Fatirrr08/salin-gaya-web"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        E-commerce thrifting premium dengan kecerdasan buatan Gemini AI untuk rekomendasi outfit cerdas.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🚀 Perintis</b><br>
+        <a href="https://github.com/marzhendo/Perintis"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Platform validasi kelayakan ide bisnis kualitatif UMKM berbasis AI terintegrasi simulasi finansial instan.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🌐 Web_HMIF / HMIF</b><br>
+        <a href="https://github.com/Fatirrr08/Web_HMIF"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Pengembangan website profil resmi dan portal internal Himpunan Mahasiswa Informatika.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>💼 Portofolio</b><br>
+        <a href="https://github.com/Fatirrr08/Portofolio"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Situs landing page portofolio personal responsif untuk memajang profil dan seluruh riwayat keahlian.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -90,12 +166,98 @@ Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah ny
 
 Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup implementasi kurikulum akademik IT:
 
-*   **[Library-Pro](https://github.com/Fatirrr08/Library-Pro)** — Tugas web aplikasi Sistem Informasi Manajemen Perpustakaan berbasis arsitektur MVC. *(Java Web, JSP & Servlets, MySQL)*
-*   **[smart-student-finance](https://github.com/Fatirrr08/smart-student-finance)** — Tugas aplikasi web pencatatan dan pelaporan manajemen keuangan mandiri mahasiswa. *(Java Web, JSP, Servlets, HTML, CSS, JS)*
-*   **[Perpus](https://github.com/Fatirrr08/Perpus)** — Tugas praktikum desktop Pemrograman Berorientasi Objek (PBO) sistem sirkulasi perpustakaan. *(Java, Swing, JDBC MySQL)*
-*   **[JARKOM-TUBES](https://github.com/Fatirrr08/JARKOM-TUBES)** — Tugas besar Jaringan Komputer, berisi implementasi protokol dan soket jaringan. *(Python, Socket Programming)*
-*   **[AKA](https://github.com/Fatirrr08/AKA)** — Implementasi analisis algoritma pemrograman untuk mata kuliah Analisis Kekuatan Algoritma. *(Python, Algorithms)*
-*   **[103112430153_Fatir-Gibran](https://github.com/Fatirrr08/103112430153_Fatir-Gibran)** — Direktori tugas-tugas perkuliahan harian dan praktikum semester berjalan. *(Academic Assignments)*
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">📁 Assignment / Task</th>
+      <th width="45%">📝 Description</th>
+      <th width="25%">🛠️ Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>📚 Library-Pro</b><br>
+        <a href="https://github.com/Fatirrr08/Library-Pro"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Tugas web aplikasi Sistem Informasi Manajemen Perpustakaan berbasis arsitektur MVC.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSP-0073B1?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🪙 smart-student-finance</b><br>
+        <a href="https://github.com/Fatirrr08/smart-student-finance"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Tugas aplikasi web pencatatan, pelacakan, dan pelaporan manajemen keuangan mandiri mahasiswa.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/JSP-0073B1?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📖 Perpus</b><br>
+        <a href="https://github.com/Fatirrr08/Perpus"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Tugas praktikum desktop Pemrograman Berorientasi Objek (PBO) sistem sirkulasi perpustakaan.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Swing-0073B1?style=flat-square&logo=java&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🔌 JARKOM-TUBES</b><br>
+        <a href="https://github.com/Fatirrr08/JARKOM-TUBES"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Tugas besar Jaringan Komputer, berisi pemrograman soket jaringan dan simulasi transfer data.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Sockets-Orange?style=flat-square&logo=google-cloud&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📐 AKA</b><br>
+        <a href="https://github.com/Fatirrr08/AKA"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Analisis efisiensi ruang dan waktu (kompleksitas) berbagai algoritma pemrograman terstruktur.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-Red?style=flat-square&logo=leetcode&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📁 103112430153_Fatir-Gibran</b><br>
+        <a href="https://github.com/Fatirrr08/103112430153_Fatir-Gibran"><b>Repo Link ↗</b></a>
+      </td>
+      <td>
+        Direktori tugas praktikum harian, kuis, dan ujian kuliah IT semester berjalan.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+      </td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
