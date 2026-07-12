@@ -1,6 +1,6 @@
 <!-- HEADER BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:61dafb,100:bd93f9&height=220&section=header&text=Fatir%20Gibran&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,2,10&height=220&section=header&text=Fatir%20Gibran&fontSize=70&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -8,6 +8,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Developer;Web+Developer+%26+AI+Enthusiast;Building+Interactive+Web+Applications" alt="Typing SVG" />
 </p>
 
+<!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fatir-gibran-7a9b972ab" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -45,6 +46,17 @@
 
 ---
 
+### 🏆 GitHub Trophies (Pencapaian Game)
+Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, commit, dan kontribusi kamu di GitHub:
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Fatirrr08&theme=radical&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+  </a>
+</p>
+
+---
+
 ### 🛠️ Tech Stack & Skills
 
 <table>
@@ -56,6 +68,28 @@
     <td align="left" valign="top" width="50%">
       <h4>⚙️ Backend & AI</h4>
       <img src="https://skillicons.dev/icons?i=py,java,firebase,supabase,mysql,git,github,postman" alt="Backend & Tools Stack" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ⚡ Current Status & Focus
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>💻 Sedang Dikerjakan</h4>
+      <ul>
+        <li>🔧 Mengoptimalkan model deteksi YOLOv8 di proyek <b>el_gestur_v2</b>.</li>
+        <li>🛒 Menambahkan fitur pembayaran online ke platform <b>Salin Gaya</b>.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 Fokus Pembelajaran</h4>
+      <ul>
+        <li>🧠 Pemrosesan bahasa alami (NLP) dengan Gemini API.</li>
+        <li>🌐 Arsitektur modern Next.js App Router dan Server Actions.</li>
+      </ul>
     </td>
   </tr>
 </table>
@@ -137,6 +171,20 @@ Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
     </td>
   </tr>
 </table>
+
+---
+
+### 📂 Featured Repositories (Kartu Repositori Aktif)
+Kartu interaktif di bawah ini otomatis menampilkan statistik bahasa pemrograman dan bintang pada repositori kamu secara realtime:
+
+<p align="center">
+  <a href="https://github.com/Fatirrr08/salin-gaya-e-commerce">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatirrr08&repo=salin-gaya-e-commerce&theme=nord&hide_border=true" alt="Salin Gaya E-Commerce Card" />
+  </a>
+  <a href="https://github.com/Fatirrr08/el_gestur_v2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatirrr08&repo=el_gestur_v2&theme=nord&hide_border=true" alt="El Gestur v2 Card" />
+  </a>
+</p>
 
 ---
 
