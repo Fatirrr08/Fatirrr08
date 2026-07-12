@@ -74,108 +74,30 @@ Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, c
 
 ---
 
-### ⚡ Current Status & Focus
-<table width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>💻 Sedang Dikerjakan</h4>
-      <ul>
-        <li>🔧 Mengoptimalkan model deteksi YOLOv8 di proyek <b>el_gestur_v2</b>.</li>
-        <li>🛒 Menambahkan fitur pembayaran online ke platform <b>Salin Gaya</b>.</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 Fokus Pembelajaran</h4>
-      <ul>
-        <li>🧠 Pemrosesan bahasa alami (NLP) dengan Gemini API.</li>
-        <li>🌐 Arsitektur modern Next.js App Router dan Server Actions.</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+### 🗃️ Complete Project Catalog
 
----
+Berikut adalah direktori lengkap proyek dan repositori yang telah saya kembangkan, dikelompokkan berdasarkan kategori teknologi:
 
-### 🚀 Highlight Projects
+#### 🤖 Artificial Intelligence & Computer Vision
+*   **[el_gestur_v2](https://github.com/aariffaqiih/el_gestur_v2)** — Sistem pengontrol presentasi (PowerPoint, Canva, Figma) secara *hands-free* memanfaatkan AI pendeteksi gerakan tangan dan suara. *(Python, YOLOv8, MediaPipe, Speech Recognition)*
+*   **[Perintis](https://github.com/marzhendo/Perintis)** — Platform validasi kelayakan ide bisnis kualitatif UMKM berbasis AI terintegrasi simulasi finansial. *(Python, HTML, CSS, JavaScript)*
+*   **[salin-gaya-web](https://github.com/Fatirrr08/salin-gaya-web)** — Platform e-commerce thrifting premium dengan sistem rekomendasi pakaian bertenaga AI. *(React, TypeScript, Vite, Firebase, Gemini AI API)*
 
-Di bawah ini adalah beberapa proyek unggulan yang telah saya bangun:
+#### 🏫 Academic & Information Systems
+*   **[Library-Pro](https://github.com/Fatirrr08/Library-Pro)** — Sistem Informasi Manajemen Perpustakaan lengkap dengan dashboard analitik dan upload data buku. *(Java Web, JSP & Servlets, MVC, MySQL)*
+*   **[smart-student-finance](https://github.com/Fatirrr08/smart-student-finance)** — Aplikasi pencatatan dan pelaporan pemasukan serta pengeluaran bulanan mahasiswa. *(Java Web, JSP, Servlets, HTML, CSS, JS)*
+*   **[Perpus](https://github.com/Fatirrr08/Perpus)** — Aplikasi desktop manajemen sirkulasi perpustakaan berbasis OOP. *(Java, Swing, JDBC MySQL)*
+*   **[Web_HMIF](https://github.com/Fatirrr08/Web_HMIF)** & **[HMIF](https://github.com/Fatirrr08/HMIF)** — Repositori pengembangan website profil dan sistem informasi internal Himpunan Mahasiswa Informatika. *(HTML, CSS, JavaScript)*
 
-<table width="100%">
-  <!-- ROW 1 -->
-  <tr>
-    <!-- Project 1 -->
-    <td width="50%" valign="top">
-      <h3>🛍️ Salin Gaya</h3>
-      <p><i>Premium Thrifting E-Commerce Platform with AI integrations.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
-        <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white" />
-      </p>
-      <ul>
-        <li>Rekomendasi thrift cerdas menggunakan Gemini AI API.</li>
-        <li>UI premium dengan Tailwind CSS, Framer Motion, dan Radix UI.</li>
-      </ul>
-      <a href="https://github.com/Fatirrr08/salin-gaya-web"><b>View Repository ↗</b></a>
-    </td>
-    <!-- Project 2 -->
-    <td width="50%" valign="top">
-      <h3>👁️ El Presentasi (v2)</h3>
-      <p><i>Hands-free interactive presentation control software.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" />
-        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
-        <img src="https://img.shields.io/badge/Voice_Control-4285F4?style=flat-square&logo=google-assistant&logoColor=white" />
-      </p>
-      <ul>
-        <li>Mengontrol PowerPoint, Canva, & Figma via gestur tangan waktu nyata.</li>
-        <li>Kombinasi AI Computer Vision dan deteksi suara.</li>
-      </ul>
-      <a href="https://github.com/aariffaqiih/el_gestur_v2"><b>View Repository ↗</b></a>
-    </td>
-  </tr>
-  
-  <!-- ROW 2 -->
-  <tr>
-    <!-- Project 3 -->
-    <td width="50%" valign="top">
-      <h3>📈 Perintis</h3>
-      <p><i>Business validation & financial simulation web app for Indonesian MSMEs.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
-      </p>
-      <ul>
-        <li>Validasi ide bisnis UMKM dengan analisis AI kualitatif.</li>
-        <li>Simulasi finansial interaktif kalkulasi instan.</li>
-      </ul>
-      <a href="https://github.com/marzhendo/Perintis"><b>View Repository ↗</b></a>
-    </td>
-    <!-- Project 4 -->
-    <td width="50%" valign="top">
-      <h3>📚 LibraryPro</h3>
-      <p><i>Complete Web-based Library Management System.</i></p>
-      <p>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-        <img src="https://img.shields.io/badge/JSP_&_Servlets-0073B1?style=flat-square&logo=java&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-      </p>
-      <ul>
-        <li>Dashboard analitik statistik peminjaman aktif & manajemen buku.</li>
-        <li>Arsitektur MVC yang solid dengan basis data relasional.</li>
-      </ul>
-      <a href="https://github.com/Fatirrr08/Library-Pro"><b>View Repository ↗</b></a>
-    </td>
-  </tr>
-</table>
+#### 📐 Coursework & Basic Infrastructures
+*   **[JARKOM-TUBES](https://github.com/Fatirrr08/JARKOM-TUBES)** — Repositori tugas besar praktikum Jaringan Komputer, berisi implementasi protokol dan konfigurasi jaringan. *(Python, Networking)*
+*   **[AKA](https://github.com/Fatirrr08/AKA)** — Implementasi algoritma pemrograman terstruktur untuk mata kuliah Analisis Kekuatan Algoritma. *(Python, Algorithms)*
+*   **[103112430153_Fatir-Gibran](https://github.com/Fatirrr08/103112430153_Fatir-Gibran)** — Kumpulan tugas terstruktur praktikum perkuliahan semester berjalan. *(Academic Assignments)*
+*   **[Portofolio](https://github.com/Fatirrr08/Portofolio)** — Halaman website portofolio pribadi statis untuk perkenalan diri dan skill. *(HTML, CSS, JavaScript)*
 
 ---
 
 ### 📂 Featured Repositories (Kartu Repositori Aktif)
-Kartu interaktif di bawah ini otomatis menampilkan statistik bahasa pemrograman dan bintang pada repositori kamu secara realtime:
 
 <p align="center">
   <a href="https://github.com/Fatirrr08/salin-gaya-web">
