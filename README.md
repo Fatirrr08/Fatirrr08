@@ -51,7 +51,7 @@ Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, c
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Fatirrr08&theme=radical&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://gh-trophy.cdnsoft.net/?username=Fatirrr08&theme=radical&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
   </a>
 </p>
 
