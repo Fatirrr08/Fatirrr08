@@ -1,6 +1,6 @@
 <!-- HEADER BANNER WIDGET -->
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Animated Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=008080&customColorList=23,2,10&height=200&section=header&text=Fatir%20Gibran&fontSize=60&fontColor=ffffff&animation=twinkle" width="100%" alt="Header Banner" />
 </p>
 
 <!-- TYPING ANIMATION -->
@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Developer;Web+Developer+%26+AI+Enthusiast;Building+Interactive+Web+Applications" alt="Typing SVG" />
 </p>
 
-<!-- SOCIAL BADGES -->
+<!-- SOCIAL BADGES & VISITOR COUNTER -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatir-gibran-7a9b972ab" target="_blank">
+  <a href="https://www.linkedin.com/in/fatirgibran" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/alwaysselalu" target="_blank">
+  <a href="https://x.com/alwaysselalu88" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
   <a href="https://www.instagram.com/spicytir" target="_blank">
@@ -24,56 +24,60 @@
   </a>
 </p>
 
-<!-- VISITOR COUNTER -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Fatirrr08&color=88c0d0&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
+
+---
 
 ### 💫 About Me
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p>Halo! Saya <b>Fatir Gibran</b>, seorang mahasiswa IT yang bersemangat dalam dunia <b>Web Development</b> dan <b>Artificial Intelligence</b>. Saya suka menggabungkan keindahan desain antarmuka (UI/UX) dengan logika pemrograman yang kuat.</p>
+    <td width="70%" valign="top">
+      <p>Halo! Saya <b>Fatir Gibran</b>, seorang mahasiswa IT di Telkom University Purwokerto yang bersemangat dalam dunia <b>Web Development</b> dan <b>Artificial Intelligence</b>. Saya suka menggabungkan keindahan desain antarmuka (UI/UX) dengan logika pemrograman yang kuat.</p>
       <p>Hingga saat ini, saya telah mengembangkan berbagai proyek mulai dari platform e-commerce cerdas hingga aplikasi presentasi interaktif berbasis <i>Computer Vision</i>.</p>
       <ul>
-        <li>🌱 Sedang mendalami integrasi model kecerdasan buatan di web (<code>Next.js</code> & <code>Python</code>).</li>
+        <li>🌱 Sedang mendalami integrasi model kecerdasan buatan di web (<code>Next.js</code>, <code>FastAPI</code>, & <code>Python</code>).</li>
         <li>🔭 Selalu antusias untuk berkolaborasi dalam proyek open-source dan aplikasi inovatif.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/zoro.gif" width="120" alt="Chibi Zoro" />
+    <td width="30%" align="center" valign="middle">
+      <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/zoro.gif" width="130" alt="Chibi Zoro" />
     </td>
   </tr>
 </table>
 
+---
+
 ### 🏆 GitHub Trophies (Pencapaian Game)
-Trophy ini akan otomatis diperbarui berdasarkan performa aktivitas repositori, commit, dan kontribusi kamu di GitHub:
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://gh-trophy.cdnsoft.net/?username=Fatirrr08&theme=nord&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Fatirrr08&theme=nord&no-bg=true&column=6&margin-w=15" alt="GitHub Trophies" />
   </a>
 </p>
 
+---
+
 ### 🛠️ Tech Stack & Skills
 
-<table>
+<table width="100%">
   <tr>
     <td align="left" valign="top" width="50%">
       <h4>🌐 Frontend & Design</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,figma" alt="Frontend & Design Stack" />
+      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,figma" alt="Frontend Stack" />
     </td>
     <td align="left" valign="top" width="50%">
-      <h4>⚙️ Backend & AI</h4>
-      <img src="https://skillicons.dev/icons?i=py,java,firebase,supabase,mysql,git,github,postman" alt="Backend & Tools Stack" />
+      <h4>⚙️ Backend & AI Tools</h4>
+      <img src="https://skillicons.dev/icons?i=py,java,firebase,supabase,mysql,git,github,postman" alt="Backend Stack" />
     </td>
   </tr>
 </table>
 
-### 🚀 Featured & Personal Projects (Proyek Unggulan)
+---
 
-Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah nyata dan berfokus pada kecanggihan AI serta interface:
+### 🚀 Featured & Personal Projects (Proyek Unggulan)
 
 <table width="100%">
   <thead>
@@ -101,7 +105,7 @@ Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah ny
     <tr>
       <td>
         <b>🛍️ salin-gaya-web</b><br>
-        <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank"><b>Repo Link ↗</b></a>
+        <a href="https://salin-gaya.web.app/" target="_blank"><b>Live Demo 🌐</b></a> | <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank"><b>Repo Link ↗</b></a>
       </td>
       <td>
         E-commerce thrifting premium dengan kecerdasan buatan <code>Gemini AI</code> untuk rekomendasi outfit cerdas.
@@ -143,23 +147,22 @@ Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah ny
     <tr>
       <td>
         <b>💼 Portofolio</b><br>
-        <a href="https://github.com/Fatirrr08/Portofolio" target="_blank"><b>Repo Link ↗</b></a>
+        <a href="https://portofolio-fatir.web.app/" target="_blank"><b>Live Demo 🌐</b></a> | <a href="https://github.com/Fatirrr08/Portofolio" target="_blank"><b>Repo Link ↗</b></a>
       </td>
       <td>
         Situs landing page portofolio personal responsif untuk memajang profil dan seluruh riwayat keahlian.
       </td>
       <td>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
       </td>
     </tr>
   </tbody>
 </table>
 
-### 🎓 Academic Assignments & Coursework (Tugas Kuliah)
+---
 
-Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup implementasi kurikulum akademik IT:
+### 🎓 Academic Assignments & Coursework (Tugas Kuliah)
 
 <table width="100%">
   <thead>
@@ -173,7 +176,7 @@ Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup imple
     <tr>
       <td>
         <b>📚 Library-Pro</b><br>
-        <a href="https://github.com/Fatirrr08/Library-Pro" target="_blank"><b>Repo Link ↗</b></a>
+        <a href="https://librarypro.up.railway.app/" target="_blank"><b>Live Demo 🌐</b></a> | <a href="https://github.com/Fatirrr08/Library-Pro" target="_blank"><b>Repo Link ↗</b></a>
       </td>
       <td>
         Tugas web aplikasi Sistem Informasi Manajemen Perpustakaan berbasis arsitektur <code>MVC</code>.
@@ -254,27 +257,33 @@ Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup imple
   </tbody>
 </table>
 
-### 📂 Featured Repositories (Kartu Repositori Aktif)
+---
+
+### 📂 Featured Repositories
 
 <p align="center">
   <a href="https://github.com/Fatirrr08/salin-gaya-web">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=Fatirrr08&repo=salin-gaya-web&theme=nord&hide_border=true" alt="Salin Gaya Web Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Fatirrr08&repo=salin-gaya-web&theme=nord&show_owner=true" alt="Salin Gaya Web Card" />
   </a>
   <a href="https://github.com/aariffaqiih/el_gestur_v2">
-    <img src="https://github-stats-extended.vercel.app/api/pin?username=aariffaqiih&repo=el_gestur_v2&theme=nord&hide_border=true" alt="El Gestur v2 Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aariffaqiih&repo=el_gestur_v2&theme=nord&show_owner=true" alt="El Gestur v2 Card" />
   </a>
 </p>
+
+---
 
 ### 📊 GitHub Analytics & Performance
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=Fatirrr08&show_icons=true&theme=nord&count_private=true&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Fatirrr08&layout=compact&theme=nord&hide_border=true" height="160" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatirrr08&show_icons=true&theme=nord&count_private=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Fatirrr08&layout=compact&theme=nord" height="165" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatirrr08&theme=nord&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
 </p>
+
+---
 
 <p align="center">
   <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
