@@ -3,51 +3,267 @@
   <img src="./header.svg" width="100%" alt="Animated Header Banner" />
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- DYNAMIC TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=600&lines=IT+Student+%7C+Developer;Web+Developer+%26+AI+Enthusiast;Building+Interactive+Web+Applications" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Enthusiast;Go+%7C+Python+%7C+TypeScript+%7C+Next.js;Building+Scalable+%26+Intelligent+Web+Systems" alt="Typing SVG" />
 </p>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
   <a href="https://www.linkedin.com/in/fatir-gibran-7a9b972ab" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://x.com/alwaysselalu" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  <a href="https://github.com/Fatirrr08" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:fatirgibran0802@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <a href="https://www.instagram.com/spicytir" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="mailto:fatirgibran0802@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
 </p>
 
-<!-- VISITOR COUNTER -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Fatirrr08&color=88c0d0&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</p>
+---
 
-### 💫 About Me
+### 💫 About & Focus Areas
 
 <table align="center" width="100%">
   <tr>
-    <td width="65%" valign="top">
-      <p>Halo! Saya <b>Fatir Gibran</b>, seorang mahasiswa IT yang bersemangat dalam dunia <b>Web Development</b> dan <b>Artificial Intelligence</b>. Saya suka menggabungkan keindahan desain antarmuka (UI/UX) dengan logika pemrograman yang kuat.</p>
-      <p>Hingga saat ini, saya telah mengembangkan berbagai proyek mulai dari platform e-commerce cerdas hingga aplikasi presentasi interaktif berbasis <i>Computer Vision</i>.</p>
+    <td width="70%" valign="top">
+      <p>Halo! Saya <b>Fatir Gibran</b>, mahasiswa Teknik Informatika yang berfokus pada perancangan <b>Modern Web Architecture</b>, pemrosesan backend performa tinggi, dan implementasi terapan <b>Artificial Intelligence & Computer Vision</b>.</p>
+      <p>Berpengalaman mengeksekusi proyek end-to-end: mulai dari eksplorasi semantic search dan computer vision, hingga sistem antarmuka modern yang terintegrasi cloud database dan payment gateway.</p>
       <ul>
-        <li>🌱 Sedang mendalami integrasi model kecerdasan buatan di web (<code>Next.js</code> & <code>Python</code>).</li>
-        <li>🔭 Selalu antusias untuk berkolaborasi dalam proyek open-source dan aplikasi inovatif.</li>
+        <li>🌱 <b>Current Stack Focus:</b> Go (Golang), Python, Next.js / TypeScript, dan arsitektur event-driven / realtime.</li>
+        <li>💡 <b>Interest:</b> Applied Machine Learning, Vector & Semantic Search, Microservices, and UI/UX Ergonomics.</li>
+        <li>📫 <b>Opportunities:</b> Terbuka untuk software engineering internships, open-source research, dan tech collaboration.</li>
       </ul>
     </td>
-    <td width="35%" align="center" valign="middle">
-      <img src="https://raw.githubusercontent.com/KITONK/KITONK/master/assets/zoro.gif" width="120" alt="Chibi Zoro" />
+    <td width="30%" align="center" valign="middle">
+      <img src="./avatar.png" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
     </td>
   </tr>
 </table>
 
-### 🏆 GitHub Trophies & Streaks
+---
+
+### 🛠️ Tech Stack & Ecosystem
+
+<table width="100%">
+  <tr>
+    <td align="left" valign="top" width="33%">
+      <b>🌐 Frontend & Interfaces</b><br><br>
+      <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma" alt="Frontend Stack" />
+    </td>
+    <td align="left" valign="top" width="33%">
+      <b>⚙️ Backend, AI & Languages</b><br><br>
+      <img src="https://skillicons.dev/icons?i=go,py,java,mysql,supabase,firebase" alt="Backend & AI Stack" />
+    </td>
+    <td align="left" valign="top" width="33%">
+      <b>🚀 DevOps & Environments</b><br><br>
+      <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,vscode" alt="DevOps Stack" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧠 AI, Machine Learning & Vision Systems
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Repository</th>
+      <th width="45%">Deskripsi & Kemampuan Teknis</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🔍 mini-semantic-search</b><br>
+        <a href="https://github.com/Fatirrr08/mini-semantic-search" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Sistem penelusuran semantik berbasis embedding vektor kalimat dan cosine similarity untuk pencocokan konteks dokumen yang relevan.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/NLP-Vector-blue?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>👁️ el_gestur_v2</b><br>
+        <a href="https://github.com/aariffaqiih/el_gestur_v2" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Sistem kontrol presentasi (Canva, PowerPoint, Figma) secara <i>hands-free</i> dengan deteksi gestur real-time dan perintah suara multi-mode.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square" />
+        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📊 kline-app</b><br>
+        <a href="https://github.com/Fatirrr08/kline-app" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Aplikasi visualisasi analisis pasar dan chart interaktif candlestick terstruktur untuk pemantauan data finansial teknikal.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Analytics-Data-brightgreen?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 🌐 Full-Stack & Interactive Applications
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Repository</th>
+      <th width="45%">Deskripsi & Fitur Kunci</th>
+      <th width="25%">Tech Stack</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>⚡ FocuSync</b><br>
+        <a href="https://github.com/Fatirrr08/FocuSync" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Aplikasi presentasi & produktivitas kolaboratif dengan sinkronisasi state instan via realtime cloud service.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🛍️ salin-gaya-web</b><br>
+        <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Platform e-commerce katalog outfit cerdas yang memadukan asisten rekomendasi gaya cerdas dengan payment gateway transaksional.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🩺 Monitoring-Kesehatan</b><br>
+        <a href="https://github.com/Fatirrr08/Monitoring-Kesehatan" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Platform dashboard pemantauan kondisi dan rekam data kesehatan terpadu dengan penyajian metrik responsif.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Web-Dashboard-blue?style=flat-square" />
+        <img src="https://img.shields.io/badge/HealthTech-red?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🏛️ Web_HMIF</b><br>
+        <a href="https://github.com/Fatirrr08/Web_HMIF" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Website profil resmi dan sentralisasi informasi himpunan mahasiswa dengan tata letak modular dan arsitektur antarmuka modern.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### ⚙️ Backend, Systems & Computing Fundamentals
+
+<table width="100%">
+  <thead>
+    <tr>
+      <th width="30%">Repository</th>
+      <th width="45%">Fokus Implementasi</th>
+      <th width="25%">Teknologi</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <b>🐹 Latihan-Golang</b><br>
+        <a href="https://github.com/Fatirrr08/Latihan-Golang" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Eksplorasi konkurensi (Goroutines & Channels), pembuatan REST API idiomatik, dan manipulasi data berkecepatan tinggi dengan Go.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
+        <img src="https://img.shields.io/badge/Backend-APIs-lightgrey?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>🔌 JARKOM-TUBES</b><br>
+        <a href="https://github.com/Fatirrr08/JARKOM-TUBES" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Simulasi socket programming jaringan komputer, protokol komunikasi data, dan penanganan koneksi antar-host multi-thread.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Networking-Sockets-orange?style=flat-square" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📚 Library-Pro</b><br>
+        <a href="https://github.com/Fatirrr08/Library-Pro" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Sistem Informasi Manajemen Perpustakaan berbasis arsitektur <code>MVC</code> terintegrasi skema basis data relasional SQL transaksional.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>📐 AKA (Analisis Algoritma)</b><br>
+        <a href="https://github.com/Fatirrr08/AKA" target="_blank"><b>Lihat Repositori ↗</b></a>
+      </td>
+      <td>
+        Komparasi empiris performa efisiensi algoritma (Time & Space Complexity) dan benchmarking struktur data komputasi.
+      </td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Complexity-Analysis-blueviolet?style=flat-square" />
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+---
+
+### 📊 GitHub Productivity & Metrics
 
 <p align="center">
   <a href="https://github.com/Fatirrr08">
@@ -55,211 +271,14 @@
   </a>
 </p>
 
-### 🛠️ Tech Stack & Skills
-
-<table>
-  <tr>
-    <td align="left" valign="top" width="50%">
-      <h4>🌐 Frontend & Design</h4>
-      <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,figma" alt="Frontend & Design Stack" />
-    </td>
-    <td align="left" valign="top" width="50%">
-      <h4>⚙️ Backend & AI</h4>
-      <img src="https://skillicons.dev/icons?i=py,java,firebase,supabase,mysql,git,github,postman" alt="Backend & Tools Stack" />
-    </td>
-  </tr>
-</table>
-
-### 🚀 Featured & Personal Projects (Proyek Unggulan)
-
-Daftar proyek mandiri dan profesional yang saya buat untuk memecahkan masalah nyata dan berfokus pada kecanggihan AI serta interface:
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">📁 Project Name</th>
-      <th width="45%">📝 Description</th>
-      <th width="25%">🛠️ Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>👁️ el_gestur_v2</b><br>
-        <a href="https://github.com/aariffaqiih/el_gestur_v2" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Sistem kontrol presentasi (Canva, PowerPoint, Figma) secara <i>hands-free</i> berbasis <code>Computer Vision</code> & <code>Voice Recognition</code>.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/YOLOv8-FF6F00?style=flat-square&logo=opencv&logoColor=white" alt="YOLOv8" />
-        <img src="https://img.shields.io/badge/MediaPipe-00C7B7?style=flat-square&logo=google&logoColor=white" alt="MediaPipe" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🛍️ salin-gaya-web</b><br>
-        <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        E-commerce thrifting premium dengan kecerdasan buatan <code>Gemini AI</code> untuk rekomendasi outfit cerdas.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-        <img src="https://img.shields.io/badge/TS-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TS" />
-        <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🚀 Perintis</b><br>
-        <a href="https://github.com/marzhendo/Perintis" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Platform validasi kelayakan ide bisnis kualitatif UMKM berbasis <code>AI</code> terintegrasi simulasi finansial instan.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🌐 Web_HMIF / HMIF</b><br>
-        <a href="https://github.com/Fatirrr08/Web_HMIF" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Pengembangan website profil resmi dan portal internal Himpunan Mahasiswa Informatika.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>💼 Portofolio</b><br>
-        <a href="https://github.com/Fatirrr08/Portofolio" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Situs landing page portofolio personal responsif untuk memajang profil dan seluruh riwayat keahlian.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" />
-        <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### 🎓 Academic Assignments & Coursework (Tugas Kuliah)
-
-Kumpulan tugas praktikum, ujian, dan tugas besar perkuliahan yang mencakup implementasi kurikulum akademik IT:
-
-<table width="100%">
-  <thead>
-    <tr>
-      <th width="30%">📁 Assignment / Task</th>
-      <th width="45%">📝 Description</th>
-      <th width="25%">🛠️ Tech Stack</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>
-        <b>📚 Library-Pro</b><br>
-        <a href="https://github.com/Fatirrr08/Library-Pro" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Tugas web aplikasi Sistem Informasi Manajemen Perpustakaan berbasis arsitektur <code>MVC</code>.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/JSP-0073B1?style=flat-square&logo=java&logoColor=white" alt="JSP" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🪙 smart-student-finance</b><br>
-        <a href="https://github.com/Fatirrr08/smart-student-finance" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Tugas aplikasi web pencatatan, pelacakan, dan pelaporan manajemen keuangan mandiri mahasiswa.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/JSP-0073B1?style=flat-square&logo=java&logoColor=white" alt="JSP" />
-        <img src="https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📖 Perpus</b><br>
-        <a href="https://github.com/Fatirrr08/Perpus" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Tugas praktikum desktop Pemrograman Berorientasi Objek (<code>PBO</code>) sistem sirkulasi perpustakaan.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Swing-0073B1?style=flat-square&logo=java&logoColor=white" alt="Swing" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>🔌 JARKOM-TUBES</b><br>
-        <a href="https://github.com/Fatirrr08/JARKOM-TUBES" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Tugas besar Jaringan Komputer, berisi pemrograman soket jaringan dan simulasi transfer data.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Sockets-Orange?style=flat-square" alt="Sockets" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📐 AKA</b><br>
-        <a href="https://github.com/Fatirrr08/AKA" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Analisis efisiensi ruang dan waktu (kompleksitas) berbagai algoritma pemrograman terstruktur.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Algorithms-Red?style=flat-square&logo=leetcode&logoColor=white" alt="Algorithms" />
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <b>📁 103112430153_Fatir-Gibran</b><br>
-        <a href="https://github.com/Fatirrr08/103112430153_Fatir-Gibran" target="_blank"><b>Repo Link ↗</b></a>
-      </td>
-      <td>
-        Direktori tugas praktikum harian, kuis, dan ujian kuliah IT semester berjalan.
-      </td>
-      <td>
-        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-      </td>
-    </tr>
-  </tbody>
-</table>
-
-### 📊 GitHub Analytics & Performance
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatirrr08&theme=nord&hide_border=true" width="100%" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatirrr08&theme=nord&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
 </p>
 
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i><br>
-  ⭐️ Terimakasih telah berkunjung ke profil saya!
+  <img src="https://komarev.com/ghpvc/?username=Fatirrr08&color=88c0d0&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</p>
+
+<p align="center">
+  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
 </p>
