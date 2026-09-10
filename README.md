@@ -271,11 +271,11 @@
   </a>
 </p>
 
+<!-- STATS SUMMARY PILLS -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatirrr08&theme=nord&hide_border=true&area=true" width="100%" alt="Contribution Graph" />
-</p>
-
-<p align="center">
+  <img src="https://img.shields.io/github/followers/Fatirrr08?label=Followers&style=flat-square&color=88C0D0&labelColor=2E3440" alt="Followers" />
+  <img src="https://img.shields.io/badge/Repos-18%2B_Active-81A1C1?style=flat-square&labelColor=2E3440" alt="Repositories" />
+  <img src="https://img.shields.io/badge/Focus-Full--Stack_%26_AI-5E81AC?style=flat-square&labelColor=2E3440" alt="Focus" />
   <img src="https://komarev.com/ghpvc/?username=Fatirrr08&color=88c0d0&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
