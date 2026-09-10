@@ -1,9 +1,9 @@
 <!-- HEADER BANNER WIDGET -->
 <p align="center">
-  <img src="./header.svg" width="100%" alt="Animated Header Banner" />
+  <img src="./header.svg" width="100%" alt="Header Banner" />
 </p>
 
-<!-- DYNAMIC TYPING SVG -->
+<!-- DYNAMIC TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=88C0D0&center=true&vCenter=true&width=680&lines=Full-Stack+Web+Developer;Applied+AI+%26+Computer+Vision+Enthusiast;Go+%7C+Python+%7C+TypeScript+%7C+Next.js;Building+Scalable+%26+Intelligent+Web+Systems" alt="Typing SVG" />
 </p>
@@ -30,16 +30,16 @@
 
 <table align="center" width="100%">
   <tr>
-    <td width="70%" valign="top">
-      <p>Halo! Saya <b>Fatir Gibran</b>, mahasiswa Teknik Informatika yang berfokus pada perancangan <b>Modern Web Architecture</b>, pemrosesan backend performa tinggi, dan implementasi terapan <b>Artificial Intelligence & Computer Vision</b>.</p>
-      <p>Berpengalaman mengeksekusi proyek end-to-end: mulai dari eksplorasi semantic search dan computer vision, hingga sistem antarmuka modern yang terintegrasi cloud database dan payment gateway.</p>
+    <td width="72%" valign="top">
+      <p>Halo! Saya <b>Fatir Gibran</b>, mahasiswa Teknik Informatika yang berfokus pada perancangan <b>Modern Web Architecture</b>, pemrosesan backend performa tinggi, dan implementasi terapan <b>Artificial Intelligence &amp; Computer Vision</b>.</p>
+      <p>Terbiasa membangun sistem end-to-end: mulai dari eksplorasi semantic search dan computer vision hingga aplikasi web reaktif yang terintegrasi cloud database serta payment gateway.</p>
       <ul>
-        <li>🌱 <b>Current Stack Focus:</b> Go (Golang), Python, Next.js / TypeScript, dan arsitektur event-driven / realtime.</li>
-        <li>💡 <b>Interest:</b> Applied Machine Learning, Vector & Semantic Search, Microservices, and UI/UX Ergonomics.</li>
+        <li>🌱 <b>Current Stack:</b> Go (Golang), Python, Next.js / TypeScript, dan arsitektur event-driven / realtime.</li>
+        <li>💡 <b>Interests:</b> Applied Machine Learning, Vector &amp; Semantic Search, Microservices, dan UI/UX Ergonomics.</li>
         <li>📫 <b>Opportunities:</b> Terbuka untuk software engineering internships, open-source research, dan tech collaboration.</li>
       </ul>
     </td>
-    <td width="30%" align="center" valign="middle">
+    <td width="28%" align="center" valign="middle">
       <img src="./avatar.png" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
     </td>
   </tr>
@@ -52,15 +52,15 @@
 <table width="100%">
   <tr>
     <td align="left" valign="top" width="33%">
-      <b>🌐 Frontend & Interfaces</b><br><br>
+      <b>🌐 Frontend &amp; Interfaces</b><br><br>
       <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,html,css,figma" alt="Frontend Stack" />
     </td>
     <td align="left" valign="top" width="33%">
-      <b>⚙️ Backend, AI & Languages</b><br><br>
+      <b>⚙️ Backend, AI &amp; Languages</b><br><br>
       <img src="https://skillicons.dev/icons?i=go,py,java,mysql,supabase,firebase" alt="Backend & AI Stack" />
     </td>
     <td align="left" valign="top" width="33%">
-      <b>🚀 DevOps & Environments</b><br><br>
+      <b>🚀 DevOps &amp; Environments</b><br><br>
       <img src="https://skillicons.dev/icons?i=git,github,postman,linux,docker,vscode" alt="DevOps Stack" />
     </td>
   </tr>
@@ -74,7 +74,7 @@
   <thead>
     <tr>
       <th width="30%">Repository</th>
-      <th width="45%">Deskripsi & Kemampuan Teknis</th>
+      <th width="45%">Deskripsi &amp; Kemampuan Teknis</th>
       <th width="25%">Tech Stack</th>
     </tr>
   </thead>
@@ -112,7 +112,7 @@
         <a href="https://github.com/Fatirrr08/kline-app" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Aplikasi visualisasi analisis pasar dan chart interaktif candlestick terstruktur untuk pemantauan data finansial teknikal.
+        Aplikasi visualisasi analisis pasar dan chart candlestick terstruktur untuk pemantauan data finansial teknikal.
       </td>
       <td>
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
@@ -130,7 +130,7 @@
   <thead>
     <tr>
       <th width="30%">Repository</th>
-      <th width="45%">Deskripsi & Fitur Kunci</th>
+      <th width="45%">Deskripsi &amp; Fitur Kunci</th>
       <th width="25%">Tech Stack</th>
     </tr>
   </thead>
@@ -141,7 +141,7 @@
         <a href="https://github.com/Fatirrr08/FocuSync" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Aplikasi presentasi & produktivitas kolaboratif dengan sinkronisasi state instan via realtime cloud service.
+        Aplikasi presentasi &amp; produktivitas kolaboratif dengan sinkronisasi state instan via realtime cloud service.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
@@ -155,7 +155,7 @@
         <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Platform e-commerce katalog outfit cerdas yang memadukan asisten rekomendasi gaya cerdas dengan payment gateway transaksional.
+        Platform e-commerce pakaian terkurasi dengan fitur rekomendasi gaya cerdas serta integrasi payment gateway.
       </td>
       <td>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
@@ -169,7 +169,7 @@
         <a href="https://github.com/Fatirrr08/Monitoring-Kesehatan" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Platform dashboard pemantauan kondisi dan rekam data kesehatan terpadu dengan penyajian metrik responsif.
+        Platform dashboard pemantauan kondisi dan rekam data kesehatan terpadu dengan visualisasi metrik responsif.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Web-Dashboard-blue?style=flat-square" />
@@ -182,7 +182,7 @@
         <a href="https://github.com/Fatirrr08/Web_HMIF" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Website profil resmi dan sentralisasi informasi himpunan mahasiswa dengan tata letak modular dan arsitektur antarmuka modern.
+        Portal profil resmi dan pusat informasi kegiatan himpunan mahasiswa dengan tata letak modern dan ramah SEO.
       </td>
       <td>
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -212,7 +212,7 @@
         <a href="https://github.com/Fatirrr08/Latihan-Golang" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Eksplorasi konkurensi (Goroutines & Channels), pembuatan REST API idiomatik, dan manipulasi data berkecepatan tinggi dengan Go.
+        Implementasi idiomatik Go, penanganan konkurensi (Goroutines &amp; Channels), serta pembuatan endpoint REST API performa tinggi.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" />
@@ -251,7 +251,7 @@
         <a href="https://github.com/Fatirrr08/AKA" target="_blank"><b>Lihat Repositori ↗</b></a>
       </td>
       <td>
-        Komparasi empiris performa efisiensi algoritma (Time & Space Complexity) dan benchmarking struktur data komputasi.
+        Komparasi empiris performa efisiensi algoritma (Time &amp; Space Complexity) dan benchmarking struktur data komputasi.
       </td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
