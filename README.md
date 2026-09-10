@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="./HMIF Kreatif DSCF2478.jpeg" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
+      <img src="./HMIF%20Kreatif%20DSCF2478.jpeg" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
     </td>
   </tr>
 </table>
@@ -193,6 +193,10 @@
   </tbody>
 </table>
 
+<p align="center">
+  <img src="./background.svg" width="100%" alt="Ambient Backdrop" />
+</p>
+
 ---
 
 ### ⚙️ Backend, Systems & Computing Fundamentals
@@ -279,6 +283,9 @@
   <img src="https://komarev.com/ghpvc/?username=Fatirrr08&color=88c0d0&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </p>
 
+<br>
+
+<!-- FOOTER BANNER WIDGET -->
 <p align="center">
-  <i>"Code is like humor. When you have to explain it, it’s bad."</i>
+  <img src="./footer.svg" width="100%" alt="Footer Banner" />
 </p>
