@@ -1,0 +1,135 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 560" width="100%" height="100%">
+  <defs>
+    <style>
+      .card-bg { fill: #1c2331; rx: 16px; }
+      .card-border { fill: none; stroke: #2e3440; stroke-width: 1.5; rx: 16px; }
+      .section-title { font-family: 'Fira Code', monospace; font-size: 16px; font-weight: 700; fill: #ECEFF4; }
+      .th { font-family: 'Fira Code', monospace; font-size: 12px; font-weight: 600; fill: #88C0D0; }
+      .row-title { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; font-size: 13.5px; font-weight: 700; fill: #ECEFF4; }
+      .row-link { font-family: 'Fira Code', monospace; font-size: 11.5px; font-weight: 600; fill: #88C0D0; text-decoration: none; }
+      .row-link:hover { fill: #81A1C1; text-decoration: underline; }
+      .desc { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 12px; fill: #D8DEE9; }
+      .pill-bg { rx: 4px; }
+      .pill-text { font-family: 'Fira Code', monospace; font-size: 10px; font-weight: 600; fill: #ECEFF4; }
+      .divider { stroke: #2e3440; stroke-width: 1; }
+    </style>
+  </defs>
+
+  <!-- Box Solid Nord -->
+  <rect width="850" height="560" class="card-bg" />
+  <rect width="848" height="558" x="1" y="1" class="card-border" />
+
+  <!-- Section Title -->
+  <text x="35" y="42" class="section-title">🚀 Featured Projects &amp; AI Systems</text>
+
+  <!-- Table Header -->
+  <rect x="35" y="60" width="780" height="32" rx="6" fill="#242c3d" />
+  <text x="50" y="81" class="th">PROJECT / REPOSITORY</text>
+  <text x="290" y="81" class="th">DESCRIPTION &amp; KEY FEATURES</text>
+  <text x="660" y="81" class="th">TECH STACK</text>
+
+  <!-- Row 1: mini-semantic-search -->
+  <g transform="translate(0, 105)">
+    <text x="50" y="20" class="row-title">🔍 mini-semantic-search</text>
+    <a href="https://github.com/Fatirrr08/mini-semantic-search" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">Sistem penelusuran semantik berbasis embedding vektor kalimat dan</text>
+    <text x="290" y="38" class="desc">Cosine Similarity untuk pencocokan konteks dokumen relevan.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="60" height="20" class="pill-bg" fill="#3776AB" />
+    <text x="690" y="24" class="pill-text" text-anchor="middle">Python</text>
+    <rect x="726" y="10" width="85" height="20" class="pill-bg" fill="#4C566A" />
+    <text x="768.5" y="24" class="pill-text" text-anchor="middle">Vector NLP</text>
+    <line x1="35" y1="58" x2="815" y2="58" class="divider" />
+  </g>
+
+  <!-- Row 2: el_gestur_v2 -->
+  <g transform="translate(0, 180)">
+    <text x="50" y="20" class="row-title">👁️ el_gestur_v2</text>
+    <a href="https://github.com/aariffaqiih/el_gestur_v2" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">Kontrol presentasi (Canva, PPT, Figma) hands-free secara real-time</text>
+    <text x="290" y="38" class="desc">memanfaatkan Computer Vision dan perintah suara multi-mode.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="60" height="20" class="pill-bg" fill="#3776AB" />
+    <text x="690" y="24" class="pill-text" text-anchor="middle">Python</text>
+    <rect x="726" y="10" width="62" height="20" class="pill-bg" fill="#D08770" />
+    <text x="757" y="24" class="pill-text" text-anchor="middle">YOLOv8</text>
+    <line x1="35" y1="58" x2="815" y2="58" class="divider" />
+  </g>
+
+  <!-- Row 3: FocuSync -->
+  <g transform="translate(0, 255)">
+    <text x="50" y="20" class="row-title">⚡ FocuSync</text>
+    <a href="https://github.com/Fatirrr08/FocuSync" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">Platform presentasi kolaboratif berbasis Next.js App Router dengan</text>
+    <text x="290" y="38" class="desc">sinkronisasi state instan via realtime cloud broadcast.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="65" height="20" class="pill-bg" fill="#000000" stroke="#4C566A" stroke-width="0.8" />
+    <text x="692.5" y="24" class="pill-text" text-anchor="middle">Next.js</text>
+    <rect x="731" y="10" width="80" height="20" class="pill-bg" fill="#3ECF8E" />
+    <text x="771" y="24" class="pill-text" text-anchor="middle" fill="#1c2331">Supabase</text>
+    <line x1="35" y1="58" x2="815" y2="58" class="divider" />
+  </g>
+
+  <!-- Row 4: salin-gaya-web -->
+  <g transform="translate(0, 330)">
+    <text x="50" y="20" class="row-title">🛍️ salin-gaya-web</text>
+    <a href="https://github.com/Fatirrr08/salin-gaya-web" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">E-commerce curated fashion dengan rekomendasi outfit berbasis Gemini AI</text>
+    <text x="290" y="38" class="desc">serta integrasi payment gateway Midtrans.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="55" height="20" class="pill-bg" fill="#20232A" stroke="#61DAFB" stroke-width="0.8" />
+    <text x="687.5" y="24" class="pill-text" text-anchor="middle" fill="#61DAFB">React</text>
+    <rect x="721" y="10" width="40" height="20" class="pill-bg" fill="#007ACC" />
+    <text x="741" y="24" class="pill-text" text-anchor="middle">TS</text>
+    <rect x="767" y="10" width="45" height="20" class="pill-bg" fill="#FFA000" />
+    <text x="789.5" y="24" class="pill-text" text-anchor="middle" fill="#000">Base</text>
+    <line x1="35" y1="58" x2="815" y2="58" class="divider" />
+  </g>
+
+  <!-- Row 5: kline-app -->
+  <g transform="translate(0, 405)">
+    <text x="50" y="20" class="row-title">📊 kline-app</text>
+    <a href="https://github.com/Fatirrr08/kline-app" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">Visualisasi grafik candlestick pasar finansial interaktif untuk membaca</text>
+    <text x="290" y="38" class="desc">pergerakan data tren teknikal secara responsif.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="45" height="20" class="pill-bg" fill="#F7DF1E" />
+    <text x="682.5" y="24" class="pill-text" text-anchor="middle" fill="#000">JS</text>
+    <rect x="711" y="10" width="85" height="20" class="pill-bg" fill="#88C0D0" />
+    <text x="753.5" y="24" class="pill-text" text-anchor="middle" fill="#1c2331">Analytics</text>
+    <line x1="35" y1="58" x2="815" y2="58" class="divider" />
+  </g>
+
+  <!-- Row 6: Web_HMIF -->
+  <g transform="translate(0, 480)">
+    <text x="50" y="20" class="row-title">🏛️ Web_HMIF</text>
+    <a href="https://github.com/Fatirrr08/Web_HMIF" target="_blank">
+      <text x="50" y="38" class="row-link">Repo Link ↗</text>
+    </a>
+    <text x="290" y="20" class="desc">Portal resmi organisasi Himpunan Mahasiswa Informatika dengan rancangan</text>
+    <text x="290" y="38" class="desc">layout modern, navigasi modular, dan performa ramah SEO.</text>
+    
+    <!-- Pills Stack -->
+    <rect x="660" y="10" width="55" height="20" class="pill-bg" fill="#E34F26" />
+    <text x="687.5" y="24" class="pill-text" text-anchor="middle">HTML5</text>
+    <rect x="721" y="10" width="45" height="20" class="pill-bg" fill="#1572B6" />
+    <text x="743.5" y="24" class="pill-text" text-anchor="middle">CSS3</text>
+    <rect x="772" y="10" width="40" height="20" class="pill-bg" fill="#F7DF1E" />
+    <text x="792" y="24" class="pill-text" text-anchor="middle" fill="#000">JS</text>
+  </g>
+</svg>
