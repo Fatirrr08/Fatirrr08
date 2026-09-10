@@ -40,7 +40,7 @@
       </ul>
     </td>
     <td width="28%" align="center" valign="middle">
-      <img src="./avatar.png" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
+      <img src="./HMIF Kreatif DSCF2478.jpeg" width="180" style="border-radius: 12px;" alt="Fatir Gibran" />
     </td>
   </tr>
 </table>
